@@ -76,8 +76,8 @@ Default CSS
 
 $main-font-family: 'Montserrat', sans-serif;
 $heading-font-family: 'Poppins', sans-serif;
-$main-color: #F0B9B2;
-$optional-color: #221D48;
+$main-color: #399185;
+$optional-color: #0B5F6A;
 $white-color: #ffffff;
 $black-color: #212529;
 $paragraph-color: #6b6b84;
@@ -379,7 +379,7 @@ Top Header Area CSS
             li {
                 a {
                     &::before {
-                        background-color: #221d485e;
+                        background-color: #0B5F6A5e;
                     }
                     i {
                         color: $white-color;
@@ -416,7 +416,7 @@ Top Header Area CSS
             li {
                 a {
                     &::before {
-                        background-color: #221d485e;
+                        background-color: #0B5F6A5e;
                     }
                     i {
                         color: $optional-color;
