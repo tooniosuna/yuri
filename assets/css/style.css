@@ -2899,7 +2899,7 @@ FAQS Area CSS
 Fun Facts Area CSS
 =================================================*/
 .fun-facts-area {
-  background-image: url(../../assets/images/fun-facts-bg.jpg);
+  background-image: url(../../assets/images/datos-curiosos-fondo.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7283,7 +7283,7 @@ Pagination Area CSS
 Subscribe Area CSS
 =================================================*/
 .subscribe-inner-box {
-  background-image: url(../../assets/images/subscribe-bg.jpg);
+  background-image: url(../../assets/images/suscribirse-fondo.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
