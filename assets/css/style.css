@@ -75,14 +75,6 @@ html, body {
   width: 100%;
 }
 
-.navbar-area,
-.main-navbar,
-.main-navbar .navbar,
-.others-options {
-  overflow-x: hidden;
-  max-width: 100%;
-}
-
 /*================================================
 Default CSS
 =================================================*/
