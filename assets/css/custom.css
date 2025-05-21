@@ -1,14 +1,7 @@
-.others-options {
-  max-width: 100%;
-  overflow-x: hidden;
+.others-options.only-btn .default-btn {
+  padding-right: 45px; /* reducir espacio para el ícono */
 }
 
-.others-options .navbar-btn .default-btn {
-  padding-right: 45px; /* reduce espacio del icono */
-}
-
-@media (max-width: 767px) {
-  .others-options .navbar-btn .default-btn {
-    padding-right: 35px; /* más compacto en móviles */
-  }
+.others-options.only-btn .default-btn i {
+  right: 10px;
 }
