@@ -1323,7 +1323,7 @@ Main Slides Area CSS
 }
 
 .main-slides-item {
-  background-image: url(../../assets/images/main-slides/psicologa-slider-1v3.jpg);
+  background-image: url(../../assets/images/main-slides/psicologa-slider-1v2.webp);
   background-position: center bottom;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1331,10 +1331,10 @@ Main Slides Area CSS
   padding-bottom: 350px;
 }
 .main-slides-item.item-two {
-  background-image: url(../../assets/images/main-slides/psicologa-slider-2v4.jpg);
+  background-image: url(../../assets/images/main-slides/psicologa-slider-2v2.webp);
 }
 .main-slides-item.item-three {
-  background-image: url(../../assets/images/main-slides/psicologa-slider-3v5.jpg);
+  background-image: url(../../assets/images/main-slides/psicologa-slider-3v4.webp);
 }
 
 .main-slides-item-box {
