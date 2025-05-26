@@ -3256,6 +3256,10 @@ Page Banner Area CSS
   background-image: url(../../assets/images/page-banner/psicologia-banner-v2.jpg);
 }
 
+.page-banner-with-full-image.item-bg5 {
+  background-image: url(../../assets/images/page-banner/calidad-laboral-empresarial-banner.jpg);
+}
+
 .page-banner-content-two {
   text-align: center;
 }
