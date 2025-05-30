@@ -137,13 +137,12 @@ img {
 }
 
 .mgtb-video-custom {
+  text-align: center;
   height: auto;
   margin: 0 auto;
   margin-top: 45px;
   margin-bottom: 45px;
-  text-align: center;
 }
-
 
 .pt-custom-1 {
   padding-top: 50px;
