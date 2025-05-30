@@ -136,14 +136,6 @@ img {
   padding-bottom: 100px;
 }
 
-.mgtb-video-custom {
-  text-align: center;
-  height: auto;
-  margin: 0 auto;
-  margin-top: 45px;
-  margin-bottom: 45px;
-}
-
 .pt-custom-1 {
   padding-top: 50px;
 }
@@ -180,6 +172,14 @@ html, body {
 
 .custom-service-buttons {
   margin: 35px 0 35px 0;
+}
+
+.video-custom {
+  text-align: center;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 45px;
+  margin-bottom: 45px;
 }
 
 /*================================================
